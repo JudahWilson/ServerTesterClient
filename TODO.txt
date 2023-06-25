@@ -1,0 +1,2 @@
+calculate rating of the high memory as well.
+CPU rating not accurate? (overly high?)
